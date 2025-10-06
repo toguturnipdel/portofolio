@@ -1,7 +1,5 @@
 # Portofolio
 
-![Profile Photo](https://orbit.dtu.dk/files-asset/398981684/200556_e069f67e.jpg?w=320&f=webp)
-
 _PhD Researcher at the Technical University of Denmark (DTU)_  
 **Focus areas:** Post-Quantum Cryptography (PQC), 6G Authentication & Key Agreement, and IoT Security
 
@@ -74,7 +72,7 @@ My work focuses on integrating **Post-Quantum Cryptography (PQC)** into network 
 
 ## 🎖 Achievements
 
-- 🏆 **Best Poster Award** — [SECRYPT 2025, Bilbao](https://orcid.org/0000-0003-0900-9349](https://secrypt.scitevents.org/PreviousAwards.aspx) 
+- 🏆 **Best Poster Award** — [SECRYPT 2025, Bilbao](https://secrypt.scitevents.org/PreviousAwards.aspx) 
 - 📘 **Accepted Publications** — SIET 2025, ISCISC 2025  
 - 🎓 **Summer School Attendance** — *Security Testing and Verification 2025*, Brussels; *Post-Quantum Cryptography 2024*, Warsaw.
 
