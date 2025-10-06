@@ -12,7 +12,9 @@ _PhD Researcher at the Technical University of Denmark (DTU)_
 
 ## 🧠 About Me
 
-I am a PhD researcher at **DTU Department of Engineering Technology and Didactics, Energy Technology and Computer Science**, working under the supervision of **Prof. Birger Andersen** and **Prof. César Vargas-Rosales (Tecnológico de Monterrey)**.  
+Togu Novriansyah Turnip received the **B.AS. degree in informatics engineering from the Politeknik Negeri Bandung, Indonesia**, in 2014, and the **M.I.M. degree in Information Management from the National Taiwan University of Science and Technology, Taipei, Taiwan** in 2016. From 2016 to 2023, he was a lecturer in Del Institute of Technology, North Sumatera, Indonesia.
+
+I am currently a PhD researcher at **DTU Department of Engineering Technology and Didactics, Energy Technology and Computer Science**, working under the supervision of **Prof. Birger Andersen** and **Prof. César Vargas-Rosales (Tecnológico de Monterrey)**.  
 My work focuses on integrating **Post-Quantum Cryptography (PQC)** into network security protocols, such as **TLS, IPsec, SSH, and 6G-AKA**, emphasizing **formal verification, benchmarking, and hybrid key exchange design**.
 
 ---
@@ -30,6 +32,10 @@ My work focuses on integrating **Post-Quantum Cryptography (PQC)** into network 
 ## 🧾 Selected Publications
 
 ### 2025
+- **T.N. Turnip**, B. Andersen, C. Vargas-Rosales,
+  *Towards 6G Authentication and Key Agreement Protocol: A Survey on Hybrid Post Quantum Cryptography*,
+  In: IEEE Communications Surveys and Tutorials. 2025.
+
 - **T.N. Turnip**, B. Andersen, C. Vargas-Rosales,  
   *Recent Trends in Integrating Post-Quantum Cryptography for Internet Security Stack*,  
   _Proc. of 22nd ISCISC 2025_, Tehran, Iran *(Hybrid Presentation)*  
@@ -92,4 +98,4 @@ My work focuses on integrating **Post-Quantum Cryptography (PQC)** into network 
 
 ---
 
-© 2025 Togu Novriansyah Turnip | DTU Copenhagen, Denmark
+© 2025 Togu Novriansyah Turnip | DTU, Ballerup Campus, Denmark
