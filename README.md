@@ -1,4 +1,6 @@
-# 👋 Togu Novriansyah Turnip
+# Portofolio
+
+![Profile Photo](https://orbit.dtu.dk/files-asset/398981684/200556_e069f67e.jpg?w=320&f=webp)
 
 _PhD Researcher at the Technical University of Denmark (DTU)_  
 **Focus areas:** Post-Quantum Cryptography (PQC), 6G Authentication & Key Agreement, and IoT Security
@@ -12,7 +14,7 @@ _PhD Researcher at the Technical University of Denmark (DTU)_
 
 ## 🧠 About Me
 
-I am a PhD researcher at **DTU Compute**, working under the supervision of **Prof. Birger Andersen** and **Prof. César Vargas-Rosales (Tecnológico de Monterrey)**.  
+I am a PhD researcher at **DTU Department of Engineering Technology and Didactics, Energy Technology and Computer Science**, working under the supervision of **Prof. Birger Andersen** and **Prof. César Vargas-Rosales (Tecnológico de Monterrey)**.  
 My work focuses on integrating **Post-Quantum Cryptography (PQC)** into network security protocols, such as **TLS, IPsec, SSH, and 6G-AKA**, emphasizing **formal verification, benchmarking, and hybrid key exchange design**.
 
 ---
@@ -72,9 +74,9 @@ My work focuses on integrating **Post-Quantum Cryptography (PQC)** into network 
 
 ## 🎖 Achievements
 
-- 🏆 **Best Poster Award** — SECRYPT 2025, Bilbao  
+- 🏆 **Best Poster Award** — [SECRYPT 2025, Bilbao](https://orcid.org/0000-0003-0900-9349](https://secrypt.scitevents.org/PreviousAwards.aspx) 
 - 📘 **Accepted Publications** — SIET 2025, ISCISC 2025  
-- 🎓 **Summer School Attendance** — *Security Testing and Verification 2025*, Brussels  
+- 🎓 **Summer School Attendance** — *Security Testing and Verification 2025*, Brussels; *Post-Quantum Cryptography 2024*, Warsaw.
 
 ---
 
@@ -92,4 +94,4 @@ My work focuses on integrating **Post-Quantum Cryptography (PQC)** into network 
 
 ---
 
-© 2025 Togu Novriansyah Turnip | DTU Compute | Copenhagen, Denmark
+© 2025 Togu Novriansyah Turnip | DTU Copenhagen, Denmark
