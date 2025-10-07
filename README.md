@@ -66,9 +66,10 @@ My work focuses on integrating **Post-Quantum Cryptography (PQC)** into network 
 
 ## 🎓 Academic & Teaching Activities
 
-- **Teaching Assistant (TA), DTU Compute**
-  - *Data Communication (62443)* — Spring 2025  
-  - *System & Network Security (63860/63861)* — Fall 2025  
+- **Teaching Assistant (TA), DTU**
+  - *System & Network Security (63860/63861)* — Fall 2023, 2024, 2025
+  - *Data Communication (62443)* — Spring 2024, 2025
+  - *Network Security (02233 - MSc)* — Spring 2024
   - *Security in Embedded Systems* — Guest lectures on PQC for IoT
 - Co-supervising MSc projects on:
   - LoRaWAN Security and PQC Integration  
@@ -79,8 +80,8 @@ My work focuses on integrating **Post-Quantum Cryptography (PQC)** into network 
 ## 🎖 Achievements
 
 - 🏆 **Best Poster Award** — [SECRYPT 2025, Bilbao](https://secrypt.scitevents.org/PreviousAwards.aspx) 
-- 📘 **Accepted Publications** — SIET 2025, ISCISC 2025  
-- 🎓 **Summer School Attendance** — *Security Testing and Verification 2025*, Brussels; *Post-Quantum Cryptography 2024*, Warsaw.
+- 📘 **Accepted Publications** — SIET 2025(https://siet.ub.ac.id/event/siet25), ISCISC 2025(https://iscisc2025.sbu.ac.ir/en/home/Content/44)  
+- 🎓 **Summer School Attendance** — *Security Testing and Verification 2025*, Brussels(https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2025); *Post-Quantum Cryptography 2024*, Warsaw (https://ideas-ncbr.pl/en/events/pqc2024).
 
 ---
 
