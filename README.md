@@ -25,7 +25,6 @@ My work focuses on integrating **Post-Quantum Cryptography (PQC)** into network 
 - 6G Authentication and Key Agreement (AKA) protocol design  
 - IoT security and lightweight cryptography  
 - Formal verification (CryptoVerif, ProVerif)  
-- Fingerprinting-based localization privacy in 5G networks  
 
 ---
 
@@ -80,8 +79,8 @@ My work focuses on integrating **Post-Quantum Cryptography (PQC)** into network 
 ## 🎖 Achievements
 
 - 🏆 **Best Poster Award** — [SECRYPT 2025, Bilbao](https://secrypt.scitevents.org/PreviousAwards.aspx) 
-- 📘 **Accepted Publications** — SIET 2025(https://siet.ub.ac.id/event/siet25), ISCISC 2025(https://iscisc2025.sbu.ac.ir/en/home/Content/44)  
-- 🎓 **Summer School Attendance** — *Security Testing and Verification 2025*, Brussels(https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2025); *Post-Quantum Cryptography 2024*, Warsaw (https://ideas-ncbr.pl/en/events/pqc2024).
+- 📘 **Accepted Publications** — [SIET 2025](https://siet.ub.ac.id/event/siet25), [ISCISC 2025](https://iscisc2025.sbu.ac.ir/en/home/Content/44)  
+- 🎓 **Summer School Attendance** — [*Security Testing and Verification 2025*, Brussels](https://cybersecurity-research.be/summer-school-on-security-testing-and-verification-2025); [*Post-Quantum Cryptography 2024*, Warsaw](https://ideas-ncbr.pl/en/events/pqc2024).
 
 ---
 
